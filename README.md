@@ -7,7 +7,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 ## Table of Contents
 
 - [Smileys & Emotion](#smileys--emotion)
-- [People & Body](#people--body)
+- [People & Body](#people--emoji-cheat-sheet/README.mdbody)
 - [Animals & Nature](#animals--nature)
 - [Food & Drink](#food--drink)
 - [Travel & Places](#travel--places)
